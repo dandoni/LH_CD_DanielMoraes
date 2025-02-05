@@ -5,14 +5,14 @@ LH_CD_DanielMoraes
 
 Esse é um projeto de EDA (Analise exploratoria de dados) e preditiva de um conjunto de dados sobre dados de imóveis disponíveis para locação em NYC.
 
-Estrutura:
+Estrutura do Projeto:
 ----------------------
 LH_CD_DanielMoraes/
-├── README.txt          # Documentação do projeto
-├── requirements.txt    # Lista de dependências
-├── LH_CD_DanielMoraes.ipynb  # Notebook com todos os codígos e análises.
-├── modelo.pkl               # Modelo salvo para preditiva.
-├──  teste_indicium_precificacao.csv # Conjunto de dados em fortamo csv
+│-- README.txt                     # Documentação do projeto
+│-- requirements.txt               # Lista de dependências
+│-- LH_CD_DanielMoraes.ipynb       # Notebook com todos os códigos e análises
+│-- modelo.pkl                     # Modelo salvo para predição
+│-- teste_indicium_precificacao.csv # Conjunto de dados em formato CSV
 
 Pré-requisitos:
 ---------------
