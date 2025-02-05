@@ -1,0 +1,8 @@
+Levenshtein==0.26.1
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+numpy==2.1.3
+pandas==2.2.3
+seaborn==0.13.2
+
+
